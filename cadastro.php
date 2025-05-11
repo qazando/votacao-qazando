@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro - Qazando</title>
-    <link rel="stylesheet" href="cadastro.css">
+    <link rel="stylesheet" href="cadastro.css?v=2">
+
 </head>
 <body>
     <div class="auth-container">

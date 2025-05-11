@@ -1,4 +1,9 @@
 <?php
+
+
+if (!defined('APP_ACESSO')) {
+    exit('Acesso negado.');
+}
 $host = 'localhost';
 $usuario = 'root';
 $senha = '123456'; // padrão do XAMPP
